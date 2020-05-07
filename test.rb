@@ -1,3 +1,3 @@
-def cool_method
-    puts "I'm a cool method"
+def cooler_method 
+    puts "This method is cooler than the last"
 end
